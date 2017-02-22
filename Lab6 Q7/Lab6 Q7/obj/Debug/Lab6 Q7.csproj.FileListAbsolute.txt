@@ -1,0 +1,6 @@
+C:\Users\karol_000\Documents\Lab6 Q7\Lab6 Q7\bin\Debug\Lab6 Q7.exe.config
+C:\Users\karol_000\Documents\Lab6 Q7\Lab6 Q7\bin\Debug\Lab6 Q7.exe
+C:\Users\karol_000\Documents\Lab6 Q7\Lab6 Q7\bin\Debug\Lab6 Q7.pdb
+C:\Users\karol_000\Documents\Lab6 Q7\Lab6 Q7\obj\Debug\Lab6 Q7.csprojResolveAssemblyReference.cache
+C:\Users\karol_000\Documents\Lab6 Q7\Lab6 Q7\obj\Debug\Lab6 Q7.exe
+C:\Users\karol_000\Documents\Lab6 Q7\Lab6 Q7\obj\Debug\Lab6 Q7.pdb

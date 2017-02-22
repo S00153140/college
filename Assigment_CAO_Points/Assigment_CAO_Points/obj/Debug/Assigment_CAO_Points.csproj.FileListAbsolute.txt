@@ -1,0 +1,6 @@
+C:\Users\karol_000\Documents\Assigment_CAO_Points\Assigment_CAO_Points\bin\Debug\Assigment_CAO_Points.exe.config
+C:\Users\karol_000\Documents\Assigment_CAO_Points\Assigment_CAO_Points\bin\Debug\Assigment_CAO_Points.exe
+C:\Users\karol_000\Documents\Assigment_CAO_Points\Assigment_CAO_Points\bin\Debug\Assigment_CAO_Points.pdb
+C:\Users\karol_000\Documents\Assigment_CAO_Points\Assigment_CAO_Points\obj\Debug\Assigment_CAO_Points.csprojResolveAssemblyReference.cache
+C:\Users\karol_000\Documents\Assigment_CAO_Points\Assigment_CAO_Points\obj\Debug\Assigment_CAO_Points.exe
+C:\Users\karol_000\Documents\Assigment_CAO_Points\Assigment_CAO_Points\obj\Debug\Assigment_CAO_Points.pdb
