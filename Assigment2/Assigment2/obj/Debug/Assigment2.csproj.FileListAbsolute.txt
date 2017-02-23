@@ -1,0 +1,6 @@
+c:\users\karol_000\documents\visual studio 2015\Projects\Assigment2\Assigment2\bin\Debug\Assigment2.exe.config
+C:\Users\karol_000\Documents\Visual Studio 2015\Projects\Assigment2\Assigment2\bin\Debug\Assigment2.exe
+C:\Users\karol_000\Documents\Visual Studio 2015\Projects\Assigment2\Assigment2\bin\Debug\Assigment2.pdb
+C:\Users\karol_000\Documents\Visual Studio 2015\Projects\Assigment2\Assigment2\obj\Debug\Assigment2.csprojResolveAssemblyReference.cache
+C:\Users\karol_000\Documents\Visual Studio 2015\Projects\Assigment2\Assigment2\obj\Debug\Assigment2.exe
+C:\Users\karol_000\Documents\Visual Studio 2015\Projects\Assigment2\Assigment2\obj\Debug\Assigment2.pdb

@@ -1,0 +1,6 @@
+c:\users\karol_000\documents\visual studio 2015\Projects\InsuranceAssigment\InsuranceAssigment\bin\Debug\InsuranceAssigment.exe.config
+c:\users\karol_000\documents\visual studio 2015\Projects\InsuranceAssigment\InsuranceAssigment\bin\Debug\InsuranceAssigment.exe
+c:\users\karol_000\documents\visual studio 2015\Projects\InsuranceAssigment\InsuranceAssigment\bin\Debug\InsuranceAssigment.pdb
+c:\users\karol_000\documents\visual studio 2015\Projects\InsuranceAssigment\InsuranceAssigment\obj\Debug\InsuranceAssigment.csprojResolveAssemblyReference.cache
+c:\users\karol_000\documents\visual studio 2015\Projects\InsuranceAssigment\InsuranceAssigment\obj\Debug\InsuranceAssigment.exe
+c:\users\karol_000\documents\visual studio 2015\Projects\InsuranceAssigment\InsuranceAssigment\obj\Debug\InsuranceAssigment.pdb

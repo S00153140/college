@@ -1,0 +1,6 @@
+C:\Users\karol_000\Documents\Visual Studio 2015\Projects\Assigment2\try2\bin\Debug\try2.exe.config
+C:\Users\karol_000\Documents\Visual Studio 2015\Projects\Assigment2\try2\bin\Debug\try2.exe
+C:\Users\karol_000\Documents\Visual Studio 2015\Projects\Assigment2\try2\bin\Debug\try2.pdb
+C:\Users\karol_000\Documents\Visual Studio 2015\Projects\Assigment2\try2\obj\Debug\try2.csprojResolveAssemblyReference.cache
+C:\Users\karol_000\Documents\Visual Studio 2015\Projects\Assigment2\try2\obj\Debug\try2.exe
+C:\Users\karol_000\Documents\Visual Studio 2015\Projects\Assigment2\try2\obj\Debug\try2.pdb
